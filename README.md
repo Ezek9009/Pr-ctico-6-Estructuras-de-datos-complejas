@@ -1,1 +1,1 @@
-# Pr-ctico-6-Estructuras-de-datos-complejas
+# Práctico-6-Estructuras-de-datos-complejas
